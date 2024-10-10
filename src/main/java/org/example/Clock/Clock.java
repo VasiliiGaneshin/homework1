@@ -1,4 +1,4 @@
-package org.example.homework1Part4;
+package org.example.Clock;
 
 public class Clock implements Readable {
     int hours;

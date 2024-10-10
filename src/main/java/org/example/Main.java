@@ -1,10 +1,10 @@
 package org.example;
 
-import org.example.homework1Part1.Book;
-import org.example.homework1Part2.Student;
-import org.example.homework1Part3.Point;
-import org.example.homework1Part4.Clock;
-import org.example.homework1Part5.Car;
+import org.example.Book.Book;
+import org.example.Student.Student;
+import org.example.Point.Point;
+import org.example.Clock.Clock;
+import org.example.Car.Car;
 
 public class Main {
     public static void main(String[] args) {

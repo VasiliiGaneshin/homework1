@@ -1,4 +1,4 @@
-package org.example.homework1Part1;
+package org.example.Book;
 
 public interface Displayable {
     public void display();

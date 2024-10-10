@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.Student;
 
 public interface Printable {
     public void print();

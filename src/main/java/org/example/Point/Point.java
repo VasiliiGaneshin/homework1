@@ -1,4 +1,4 @@
-package org.example.homework1Part3;
+package org.example.Point;
 
 public class Point implements Movable {
     private int x;
